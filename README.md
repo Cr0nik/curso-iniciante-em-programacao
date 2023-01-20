@@ -2,6 +2,3 @@
 >O primeiro curso da formação tem duração de aproximadamente 6h.<br>
 >Anotações importantes do primeiro curso:
 ```
-
-
-```
